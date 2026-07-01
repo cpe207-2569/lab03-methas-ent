@@ -12,4 +12,4 @@
 
 - ชื่อ-สกุล:นายเมธัส นายสู่
 - รหัสนักศึกษา:680610708
-- <strong>GITHUB PAGE URL : </strong>
+- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-methas-ent/</strong>
